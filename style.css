@@ -1,0 +1,62 @@
+@font-face {
+font-family: 'NeoSansPro';
+src: url('http://nihon-go.github.io/NeoSansPro-Light.woff') format('woff');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'NeoSansPro';
+src: url('http://nihon-go.github.io/NeoSansPro-Regular.woff') format('woff');
+font-weight: 400;
+font-style: normal;
+}
+@font-face {
+font-family: 'NeoSansPro';
+src: url('http://nihon-go.github.io/NeoSansPro-Medium.woff') format('woff');
+font-weight: 500;
+font-style: normal;
+}
+@font-face {
+font-family: 'NeoSansPro';
+src: url('http://nihon-go.github.io/NeoSansPro-Bold.woff') format('woff');
+font-weight: 600;
+font-style: normal;
+}
+@font-face {
+font-family: 'NeoSansPro';
+src: url('http://nihon-go.github.io/NeoSansPro-Ultra.woff') format('woff');
+font-weight: 700;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: 'NOpenSans';
+src: url('http://nihon-go.github.io/OpenSans-Light.woff') format('woff');
+font-weight: 300;
+font-style: normal;
+}
+@font-face {
+font-family: 'NOpenSans';
+src: url('http://nihon-go.github.io/OpenSans-Regular.woff') format('woff');
+font-weight: 400;
+font-style: normal;
+}
+@font-face {
+font-family: 'NOpenSans';
+src: url('http://nihon-go.github.io/OpenSans-SemiBold.woff') format('woff');
+font-weight: 500;
+font-style: normal;
+}
+@font-face {
+font-family: 'NOpenSans';
+src: url('http://nihon-go.github.io/OpenSans-Bold.woff') format('woff');
+font-weight: 600;
+font-style: normal;
+}
+@font-face {
+font-family: 'NOpenSans';
+src: url('http://nihon-go.github.io/OpenSans-ExtraBold.woff') format('woff');
+font-weight: 700;
+font-style: normal;
+}
